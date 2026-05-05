@@ -19,4 +19,4 @@ var me = {
         console.log("7th grade");
     }
 }
- razred();
+ me.razred();
